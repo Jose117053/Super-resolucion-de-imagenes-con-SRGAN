@@ -32,3 +32,8 @@ Haciendo zoom para ver una mayor diferencia:
 | <img src="./images/ciudadZoom.png"        width="500"/> | <img src="./scaledImages/ciudadZoom120.png" width="500"/> |
 
 
+## Referencias
+
+- [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks (arXiv)](https://arxiv.org/pdf/1809.00219)
+- [An Intuitive Introduction to Generative Adversarial Networks (freeCodeCamp)](https://www.freecodecamp.org/news/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394)
+- [Super-Resolution Generative Adversarial Networks (PyImageSearch)](https://pyimagesearch.com/2022/06/06/super-resolution-generative-adversarial-networks-srgan/)
