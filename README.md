@@ -1,4 +1,4 @@
-Para realizar el escalado de cualquier imagen sin necesidad de entrenar el modelo, puedes hacer uso del archivo checkpoint_epoch_70.pth. Dado que este archivo tiene un tamaño cercano a 300MB y no es posible subirlo a Git, se proporciona un enlace para su descarga: [Google Drive - checkpoints](https://drive.google.com/drive/folders/1ls7agCZf1gINa6KbFp79RVpuRtOCGJtu?usp=sharing).
+Para realizar el escalado de cualquier imagen sin necesidad de entrenar el modelo, se puede hacer uso del archivo checkpoint_epoch_40.pth. Dado que este archivo tiene un tamaño cercano a 300MB y no es posible subirlo a Git, se proporciona un enlace para su descarga: [Google Drive - checkpoints](https://drive.google.com/drive/folders/1ls7agCZf1gINa6KbFp79RVpuRtOCGJtu?usp=sharing).
 
 Cabe mencionar que realice 2 entrenamientos: uno de 150 epocas y uno de 40 epocas, el de 40 epocas tiene mejores resultados.
 
